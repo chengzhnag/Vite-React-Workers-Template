@@ -1,9 +1,9 @@
 {
-  "name": "relations-interactions",
-  "description": "人情往来站点记录",
+  "name": "Vite-React-Workers-Template",
+  "description": "Vite-React-Workers-Template",
   "private": true,
   "cloudflare": {
-    "label": "relations-interactions",
+    "label": "Vite-React-Workers-Template",
     "products": [
       "Workers"
     ],
